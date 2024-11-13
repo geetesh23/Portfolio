@@ -45,7 +45,7 @@ import {
       icon: web,
     },
     {
-      title: "Shopify Developer",
+      title: "Data Analyst",
       icon: mobile,
     },
     {
@@ -104,10 +104,6 @@ import {
       icon: git,
     },
     {
-      name: "Shopify",
-      icon: shopify,
-    },
-    {
       name: "Artificial Intelligence",
       icon: ai,
     },
@@ -115,16 +111,14 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Teachnook",
+      title: "OutSystems Developer Intern",
+      company_name: "Do iT Lean-India",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "November 2023-December 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Increased hotel booking efficiency by 25% through development of a custom web application featuring streamlined booking processes and intuitive user interface.",
+        "Designed a user-friendly hotel booking interface, leading to a 15% increase in booking conversions, and developed a secure, maintainable application using OutSystems, achieving a 75% reduction in code through reusable components.",
       ],
     },
   ];
@@ -142,41 +136,33 @@ import {
   
   const projects = [
     {
-      name: "GameStudio",
+      name: "Maven Analytics",
       description:
-        "Explore the world of gaming on our React-powered studio website. Dive into our portfolio, discover upcoming titles, and stay connected with our vibrant gaming community. Immerse yourself in the future of interactive entertainment.",
+        "Conducted a comprehensive sales analysis of Maven Superstore using Power BI, identifying top-performing products and sub-categories, which contributed to strategic decision-making and enhanced sales by 15%.",
       tags: [
         {
-          name: "react",
+          name: " Power BI",
           color: "blue-text-gradient",
-        },
-        {
-          name: "framer-motion",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
         },
       ],
       image: gamestudio,
       source_code_link: "https://github.com/",
     },
     {
-      name: "Chat It",
+      name: "Heart Disease Classifier",
       description:
-        "Engage in real-time conversations effortlessly with our React-based chat web app. Connect with friends and colleagues, share messages, images, and more. A intuitive interface ensures seamless communication,and meaningful connections.",
+        "Established a machine learning framework for heart disease prediction that analyzed 1,200+ patient observations from the dataset, achieving a 93% accuracy rate and optimizing patient management strategies for healthcare facilities.",
       tags: [
         {
-          name: "react",
+          name: "python",
           color: "blue-text-gradient",
         },
         {
-          name: "firebase",
+          name: "scikit-learn",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "numpy",
           color: "pink-text-gradient",
         },
       ],
@@ -184,20 +170,20 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Infidio",
+      name: "Agrigo: Crop Optimization System",
       description:
-        "Experience music like never before with our React-based web app powered by the Spotify API. Seamlessly stream your favorite tracks, create playlists, and discover new tunes. Enjoy a user-friendly interface, personalized recommendations.",
+        "Achieved 97.23% accuracy in crop recommendation using Random Forest, LSTM and Decision Tree algorithms, improving decision-making for farmers.",
       tags: [
         {
-          name: "react",
+          name: "python",
           color: "blue-text-gradient",
         },
         {
-          name: "redux",
+          name: "streamlit",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "numpy",
           color: "pink-text-gradient",
         },
       ],

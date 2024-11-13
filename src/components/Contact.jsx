@@ -28,7 +28,7 @@ const Contact = () => {
     // template_7h548qc
     // service_42wvqfo
     // ygyd9qAs0q0Rw2jUk
-    emailjs.send('service_42wvqfo', 'template_7h548qc', {from_name: form.name, to_name:'Geetesh Lekhwani', from_email: form.email, to_email: 'more33828@gmail.com', message: form.message}, 'ygyd9qAs0q0Rw2jUk' ).then(()=>{
+    emailjs.send('service_42wvqfo', 'template_7h548qc', {from_name: form.name, to_name:'Sawan Sirwani', from_email: form.email, to_email: 'sawansirwani5@gmail.com', message: form.message}, 'ygyd9qAs0q0Rw2jUk' ).then(()=>{
       setLoading(false);
       alert('Thank you. I will get back to you as soon as possible. ')
       setForm({

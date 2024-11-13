@@ -19,8 +19,8 @@ const Navbar = () => {
           setActive("");
           window.scrollTo(0,0);
       }}>
-        <img src={logo} alt="logo" className='w-9 h9 object-contain' />
-        <p className='text-white text-[18px] font-bold cursor-pointer'>Geetesh <span className='sm:block hidden'>| Lekhwani</span></p>
+        {/* <img src={logo} alt="logo" className='w-9 h9 object-contain' /> */}
+        <p className='text-white text-[18px] font-bold cursor-pointer'>Sawan | Sirwani</p>
       </Link>
       <ul className='list-none hidden sm:flex flex-row gap-10'>
         {navLinks.map((link)=>(
